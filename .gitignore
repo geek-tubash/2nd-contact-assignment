@@ -1,0 +1,21 @@
+  GNU nano 8.3                                                                     .gitignore                                                                     Modified
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# System
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Other
+*.log
+*.env
+
